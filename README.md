@@ -4,7 +4,6 @@ This project is a console-based C program made in CodeBlocks that allows users t
 # 🚀 Installation<br>
 `git clone https://github.com/lukakosanovicc/AvioManager.git`<br>
 `cd AvioManager`<br>
-`cd AvioManager` (yea, 2 times...)<br>
 `gcc main.c AvioManager.c -o main`<br>
 `./main`<br>
 
