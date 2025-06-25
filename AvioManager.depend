@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1748180062 source:e:\cmt\aviomanager\aviomanager.c
+	"AvioManager.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+
+1748187764 e:\cmt\aviomanager\aviomanager.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+
+1748179944 source:e:\cmt\aviomanager\main.c
+	"AvioManager.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+
+1748801468 source:e:\c\aviomanager\aviomanager.c
+	"AvioManager.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+
+1748801474 e:\c\aviomanager\aviomanager.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+
+1748800004 source:e:\c\aviomanager\main.c
+	"AvioManager.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+
+1748593400 source:d:\c\aviomanager\aviomanager.c
+	"AvioManager.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+
+1748591850 d:\c\aviomanager\aviomanager.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+
+1748592208 source:d:\c\aviomanager\main.c
+	"AvioManager.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+
