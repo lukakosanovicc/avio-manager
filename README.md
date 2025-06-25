@@ -1,7 +1,7 @@
 # 📖 Description<br>
 This project is a console-based C program made in CodeBlocks that allows users to manage information about flights and passengers. It includes functionality to add, search, update, and delete records related to flights and passengers, ensuring organized and efficient data handling.
 
-# 🚀 Installation<br>
+# 🚀 Installation & Deployment<br>
 `git clone https://github.com/lukakosanovicc/AvioManager.git`<br>
 `cd AvioManager`<br>
 `gcc main.c AvioManager.c -o main`<br>
