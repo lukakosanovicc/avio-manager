@@ -77,3 +77,29 @@
 	<stdbool.h>
 	<time.h>
 
+1750880814 source:e:\gitportable\aviomanager\aviomanager.c
+	"AvioManager.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+
+1750880814 e:\gitportable\aviomanager\aviomanager.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+
+1750880814 source:e:\gitportable\aviomanager\main.c
+	"AvioManager.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+
