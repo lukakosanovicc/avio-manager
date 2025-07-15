@@ -1,5 +1,5 @@
 /*
- * © 2025 Luka Kosanovic
+ * Â© 2025 Luka Kosanovic
  * This project is licensed under the MIT License.
  * See the LICENSE file for details.
  */
@@ -215,21 +215,21 @@ bool NoviPutnik()
     do
     {
         printf("Unesite JMBG (13 cifara): ");
-        scanf("%13s", &noviPutnik->JMBG);
+        scanf("%13s", noviPutnik->JMBG);
     }
     while (strlen(noviPutnik->JMBG) != 13);
 
     do
     {
         printf("Unesite ime: ");
-        scanf("%14s", &noviPutnik->Ime);
+        scanf("%14s", noviPutnik->Ime);
     }
     while (strlen(noviPutnik->Ime) > 14 || strlen(noviPutnik->Ime) < 2);
 
     do
     {
         printf("Unesite prezime: ");
-        scanf("%14s", &noviPutnik->Prezime);
+        scanf("%14s", noviPutnik->Prezime);
     }
     while (strlen(noviPutnik->Prezime) > 14 || strlen(noviPutnik->Prezime) < 2);
 
