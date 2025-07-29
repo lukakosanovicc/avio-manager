@@ -28,4 +28,4 @@ Putnici.dat -> a file to store passengers<br>
 - Accounts and log in (authorized and passenger) -> restricting some features to passengers
 
 # 🤝 Contributing<br>
-Contributions are welcome! Please open issues or submit pull requests for suggestions and improvements.
+Contributions are welcome! Please open issues or submit pull requests for suggestions, improvements and ideas.
