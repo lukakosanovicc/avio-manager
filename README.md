@@ -3,10 +3,10 @@ This project is a console-based C program made in CodeBlocks that allows users t
 
 # 🚀 Installation & Deployment<br>
 ```bash
-git clone https://github.com/lukakosanovicc/AvioManager.git
+git clone https://github.com/lukakosanovicc/avio-manager.git
 ```
 ```bash
-cd AvioManager
+cd avio-manager
 ```
 ```bash
 gcc main.c AvioManager.c -o main
