@@ -24,6 +24,7 @@ Letovi.dat -> a file to store flights<br>
 Putnici.dat -> a file to store passengers<br>
 
 # 📦 Future Improvements
+- Naming convention, not consistent
 - Dedicated function for adding passengers to flight even after the flight is created
 - Accounts and log in (authorized and passenger) -> restricting some features to passengers
 
